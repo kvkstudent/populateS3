@@ -1,0 +1,14 @@
+{
+    "name": "William Clark",
+    "address": {
+      "street": "111 Oak St",
+      "city": "Forest Hills",
+      "state": "MI",
+      "zipcode": "98765"
+    },
+    "phone_number": "987-654-3210",
+    "email": "william.clark@evil.com",
+    "ssn": "432-10-9876",
+    "student_id": 8
+  }
+  

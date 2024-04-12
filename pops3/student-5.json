@@ -1,0 +1,14 @@
+{
+    "name": "Jackie Lee",
+    "address": {
+      "street": "321 Cedar St",
+      "city": "Highland",
+      "state": "WA",
+      "zipcode": "98765"
+    },
+    "phone_number": "234-567-8901",
+    "email": "jackie.lee@evil.com",
+    "ssn": "765-43-2109",
+    "student_id": 5
+  }
+  

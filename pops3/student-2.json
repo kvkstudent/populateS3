@@ -1,0 +1,14 @@
+{
+    "name": "Alice Smith",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Smalltown",
+      "state": "NY",
+      "zipcode": "54321"
+    },
+    "phone_number": "987-654-3210",
+    "email": "alice.smith@evil.com",
+    "ssn": "987-65-4321",
+    "student_id": 2
+  }
+  

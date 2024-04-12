@@ -1,0 +1,14 @@
+{
+    "name": "Emily Brown",
+    "address": {
+      "street": "101 Pine St",
+      "city": "Dallas",
+      "state": "TX",
+      "zipcode": "54321"
+    },
+    "phone_number": "765-432-1098",
+    "email": "emily.brown@evil.com",
+    "ssn": "876-54-3210",
+    "student_id": 4
+  }
+  

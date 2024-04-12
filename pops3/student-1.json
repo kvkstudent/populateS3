@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "address": {
+      "street": "123 Main St",
+      "city": "Milroe",
+      "state": "CA",
+      "zipcode": "12345"
+    },
+    "phone_number": "123-456-7890",
+    "email": "john.doe@evil.com",
+    "ssn": "123-45-6789",
+    "student_id": 1
+  }
+  

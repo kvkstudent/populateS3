@@ -1,0 +1,13 @@
+{
+    "name": "Bob Johnson",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Metropolis",
+      "state": "IL",
+      "zipcode": "67890"
+    },
+    "phone_number": "345-678-9012",
+    "email": "bob.johnson@evil.com",
+    "ssn": "234-56-7890",
+    "student_id": 3
+  }

@@ -1,0 +1,14 @@
+{
+    "name": "Robert Davis",
+    "address": {
+      "street": "456 Birch St",
+      "city": "Cannon Beach",
+      "state": "OR",
+      "zipcode": "23456"
+    },
+    "phone_number": "876-543-2109",
+    "email": "robert.davis@evil.com",
+    "ssn": "654-32-1098",
+    "student_id": 6
+  }
+  
